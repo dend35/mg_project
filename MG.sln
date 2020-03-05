@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSwicher", "AccountSwicher\AccountSwicher.csproj", "{4A297F3E-31EE-4709-9194-2787B9A183FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMerger", "MapMerger\MapMerger.csproj", "{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A297F3E-31EE-4709-9194-2787B9A183FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A297F3E-31EE-4709-9194-2787B9A183FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A297F3E-31EE-4709-9194-2787B9A183FF}.Debug|x64.ActiveCfg = Debug|x64
+		{4A297F3E-31EE-4709-9194-2787B9A183FF}.Debug|x64.Build.0 = Debug|x64
+		{4A297F3E-31EE-4709-9194-2787B9A183FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A297F3E-31EE-4709-9194-2787B9A183FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A297F3E-31EE-4709-9194-2787B9A183FF}.Release|x64.ActiveCfg = Release|x64
+		{4A297F3E-31EE-4709-9194-2787B9A183FF}.Release|x64.Build.0 = Release|x64
+		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Debug|x64.ActiveCfg = Debug|x64
+		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Debug|x64.Build.0 = Debug|x64
+		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Release|x64.ActiveCfg = Release|x64
+		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F64B71F2-5CB3-4DEB-8C2D-7236F79976F0}
+	EndGlobalSection
+EndGlobal

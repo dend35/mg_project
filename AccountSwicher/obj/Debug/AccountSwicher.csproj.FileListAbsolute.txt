@@ -1,0 +1,13 @@
+C:\Users\endma\source\repos\MG\AccountSwicher\obj\Debug\AccountSwicher.csprojAssemblyReference.cache
+C:\Users\endma\source\repos\MG\AccountSwicher\obj\Debug\AccountSwicher.Form1.resources
+C:\Users\endma\source\repos\MG\AccountSwicher\obj\Debug\AccountSwicher.Properties.Resources.resources
+C:\Users\endma\source\repos\MG\AccountSwicher\obj\Debug\AccountSwicher.csproj.GenerateResource.cache
+C:\Users\endma\source\repos\MG\AccountSwicher\obj\Debug\AccountSwicher.csproj.CoreCompileInputs.cache
+C:\Users\endma\source\repos\MG\AccountSwicher\bin\Debug\AccountSwicher.exe.config
+C:\Users\endma\source\repos\MG\AccountSwicher\bin\Debug\AccountSwicher.exe
+C:\Users\endma\source\repos\MG\AccountSwicher\bin\Debug\AccountSwicher.pdb
+C:\Users\endma\source\repos\MG\AccountSwicher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\endma\source\repos\MG\AccountSwicher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\endma\source\repos\MG\AccountSwicher\obj\Debug\AccountSwicher.csproj.CopyComplete
+C:\Users\endma\source\repos\MG\AccountSwicher\obj\Debug\AccountSwicher.exe
+C:\Users\endma\source\repos\MG\AccountSwicher\obj\Debug\AccountSwicher.pdb

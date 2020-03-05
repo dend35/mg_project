@@ -1,0 +1,11 @@
+C:\repos\MG\MapMerger\bin\Release\MapMerger.exe.config
+C:\repos\MG\MapMerger\bin\Release\MapMerger.exe
+C:\repos\MG\MapMerger\bin\Release\MapMerger.pdb
+C:\repos\MG\MapMerger\bin\Release\Newtonsoft.Json.dll
+C:\repos\MG\MapMerger\bin\Release\Newtonsoft.Json.xml
+C:\repos\MG\MapMerger\obj\Release\MapMerger.Form1.resources
+C:\repos\MG\MapMerger\obj\Release\MapMerger.Properties.Resources.resources
+C:\repos\MG\MapMerger\obj\Release\MapMerger.csproj.GenerateResource.cache
+C:\repos\MG\MapMerger\obj\Release\MapMerger.csproj.CopyComplete
+C:\repos\MG\MapMerger\obj\Release\MapMerger.exe
+C:\repos\MG\MapMerger\obj\Release\MapMerger.pdb
