@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSwicher", "AccountSw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMerger", "MapMerger\MapMerger.csproj", "{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMerger.Core", "MapMerger.Core\MapMerger.Core.csproj", "{A40C8169-607E-4A84-AFF4-06FBBFF5B392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMergerConsole", "MapMergerConsole\MapMergerConsole.csproj", "{EA66399A-42DF-47A3-ADA8-892D186840C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,22 @@ Global
 		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Release|x64.ActiveCfg = Release|x64
 		{DE1AA43A-D773-481C-9AB3-E90F4B7859E4}.Release|x64.Build.0 = Release|x64
+		{A40C8169-607E-4A84-AFF4-06FBBFF5B392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40C8169-607E-4A84-AFF4-06FBBFF5B392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40C8169-607E-4A84-AFF4-06FBBFF5B392}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A40C8169-607E-4A84-AFF4-06FBBFF5B392}.Debug|x64.Build.0 = Debug|Any CPU
+		{A40C8169-607E-4A84-AFF4-06FBBFF5B392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40C8169-607E-4A84-AFF4-06FBBFF5B392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40C8169-607E-4A84-AFF4-06FBBFF5B392}.Release|x64.ActiveCfg = Release|Any CPU
+		{A40C8169-607E-4A84-AFF4-06FBBFF5B392}.Release|x64.Build.0 = Release|Any CPU
+		{EA66399A-42DF-47A3-ADA8-892D186840C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA66399A-42DF-47A3-ADA8-892D186840C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA66399A-42DF-47A3-ADA8-892D186840C3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EA66399A-42DF-47A3-ADA8-892D186840C3}.Debug|x64.Build.0 = Debug|Any CPU
+		{EA66399A-42DF-47A3-ADA8-892D186840C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA66399A-42DF-47A3-ADA8-892D186840C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA66399A-42DF-47A3-ADA8-892D186840C3}.Release|x64.ActiveCfg = Release|Any CPU
+		{EA66399A-42DF-47A3-ADA8-892D186840C3}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

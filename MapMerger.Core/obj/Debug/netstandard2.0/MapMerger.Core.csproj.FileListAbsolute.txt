@@ -1,0 +1,8 @@
+C:\repos\MG\MapMerger.Core\bin\Debug\netstandard2.0\MapMerger.Core.deps.json
+C:\repos\MG\MapMerger.Core\bin\Debug\netstandard2.0\MapMerger.Core.dll
+C:\repos\MG\MapMerger.Core\obj\Debug\netstandard2.0\MapMerger.Core.csprojAssemblyReference.cache
+C:\repos\MG\MapMerger.Core\obj\Debug\netstandard2.0\MapMerger.Core.AssemblyInfoInputs.cache
+C:\repos\MG\MapMerger.Core\obj\Debug\netstandard2.0\MapMerger.Core.AssemblyInfo.cs
+C:\repos\MG\MapMerger.Core\bin\Debug\netstandard2.0\MapMerger.Core.pdb
+C:\repos\MG\MapMerger.Core\obj\Debug\netstandard2.0\MapMerger.Core.dll
+C:\repos\MG\MapMerger.Core\obj\Debug\netstandard2.0\MapMerger.Core.pdb
