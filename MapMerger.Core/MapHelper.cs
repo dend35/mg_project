@@ -195,6 +195,12 @@ namespace MapMerger.Core
             {
                 for (int x = 0; x < Width; x++)
                 {
+                    bool drawLine = x % 1000 == 0 || y % 1000 == 0;
+                   
+                    if (map[x / 32, y / 32][x % 32, y % 32] == 0 && !drawLine)
+                    {
+                        continue;
+                    }
                     var drawY = y;
                     var i = 0;
                     if (y >= Height / 2)
@@ -202,17 +208,8 @@ namespace MapMerger.Core
                         i = 1;
                         drawY -= Height / 2;
                     }
-                    var pixel = Colors[map[x / 32, y / 32][x % 32, y % 32]];
-                    if (x % 1000 == 0 || y % 1000 == 0)
-                    {
-                        pixel = Color.OrangeRed;
-                    }
-                    if (map[x / 32, y / 32][x % 32, y % 32] == 0)
-                    {
-                        
-                        continue;
-                    }
-                  
+
+                    var pixel = drawLine ? Color.OrangeRed : Colors[map[x / 32, y / 32][x % 32, y % 32]];
                     imgArr[i][x, drawY] = pixel;
                 }
             }
