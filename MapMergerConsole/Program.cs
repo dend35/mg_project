@@ -7,7 +7,7 @@ namespace MapMergerConsole
     {
         static void Main(string[] args)
         {
-            MapHelper.RenderMap(type: MapType.Alive);
+            MapHelper.RenderMap(type: MapType.Normal);
             Console.ReadLine();
         }
     }

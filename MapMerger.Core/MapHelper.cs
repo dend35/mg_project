@@ -213,10 +213,12 @@ namespace MapMerger.Core
                 }
             }
 
+            var date = DateTime.Now;
+            var dtStr = $"{date.Day}-{date.Month}-{date.Year}_{date.Hour}-{date.Minute}";
             for (var i = 0; i < imgArr.Length; i++)
             {
                 var img = imgArr[i];
-                img.Save(fileName + i + ".png");
+                img.Save(fileName + i + dtStr + ".png");
                 img.Dispose();
             }
         }
